@@ -1,2 +1,3 @@
 This the f2 file content
 This file file is belongs to the f2.txt 
+This file content is related to the f2.txt in the sbms log application
