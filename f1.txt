@@ -1,3 +1,1 @@
 This is the f1 file content
-This is the second line in the f1.txt
-This is the third line in the f1.txt
